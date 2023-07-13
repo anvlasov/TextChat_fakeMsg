@@ -1,6 +1,4 @@
-window.fakeMsg = {
-	
-	text: `
+text: `
 
 \`\`\` js
 funciton test(){
@@ -10,4 +8,3 @@ funciton test(){
 \`\`\`
 
 `
-}
